@@ -35,7 +35,11 @@
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="gcp" height="40" /> </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" height="40" /> </a>
 </p>
-<!--![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfbos&count_private=true)-->
+
+<h1 align="center">Github Stats</h1>
+  <div align="center" >
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfbos&layout=compact"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lfbos&)">
+  </div>
 
 <!--
 **lfbos/lfbos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
