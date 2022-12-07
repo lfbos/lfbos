@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**I am Luis Boscan, a lifelong developer, pythonist, gopher, and tech enthusiast who loves to constantly experiment and learn 🤓**
+
 ![](https://komarev.com/ghpvc/?username=lfbos&color=brightgreen)
 
 
