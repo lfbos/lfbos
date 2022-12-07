@@ -30,6 +30,11 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgres" width="40" height="40" /> </a>
 </p>
+<p>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws"  height="40" /> </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="gcp" height="40" /> </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" height="40" /> </a>
+</p>
 <!--![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfbos&count_private=true)-->
 
 <!--
