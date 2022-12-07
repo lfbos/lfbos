@@ -4,6 +4,15 @@
 
 ![](https://komarev.com/ghpvc/?username=lfbos&color=brightgreen)
 
+### Let's Connect:
+[<img align="left" alt="lfbos | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
+[<img align="left" alt="lboscannava | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][GitLab]
+[<img align="left" alt="lboscannava | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="lfboscan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+<a href="mailto:lboscannava@gmail.com">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br>
 
 <!--![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfbos&count_private=true)-->
 
