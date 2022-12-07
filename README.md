@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=lfbos&color=brightgreen)
 
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfbos&count_private=true)
+<!--![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfbos&count_private=true)-->
 
 <!--
 **lfbos/lfbos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
