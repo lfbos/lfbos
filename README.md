@@ -32,8 +32,7 @@
 </p>
 <p>
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws"  height="40" /> </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="gcp" height="40" /> </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" height="40" /> </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="gcp" height="40" /> 
 </p>
 
 <!--
