@@ -28,9 +28,7 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgres" width="40" height="40" /></a>
 </p>
 <p>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws"  height="40" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="gcp" height="40" />
-    <a href="https://www.serverless.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png" alt="serverless" height="40" />
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws"  height="40" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="gcp" height="40" /><a href="https://www.serverless.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png" alt="serverless" height="40" />
 </p>
 <!--
 **lfbos/lfbos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
